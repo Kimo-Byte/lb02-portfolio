@@ -1,0 +1,191 @@
+
+h1{
+    font-size: 50px;
+        color: black;
+            font-family: 'Abel', 'sans-serif';
+                padding-left: 115px;
+                    padding-top:30px;
+                        padding-right: 115px;
+
+}
+
+
+
+
+
+.titelbild{
+
+    width: 100%;
+        padding-top: 30px;
+                filter: brightness(.5);
+
+}
+
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+
+
+.text-wrapper{
+    width: 100%;
+    position: relative;
+    margin-top: -80%;
+}
+
+.text-wrapper h1{
+    text-align: left;
+    padding-left: 115px;
+    color: #fdfdfd;
+    font-size: 80px;
+    font-family: 'Abel', 'sans-serif';
+}
+
+
+nav{
+
+    font-size: 20px;
+        font-family: "Calibri";
+            text-decoration: none;
+                background-color: rgba(210, 211, 217, 0.6);
+                      padding: 30px;
+                            width: 100%;
+                                text-align: center;
+                                    height: 100px;
+
+
+}
+
+
+a:hover{
+    color: black;
+        text-decoration: none;
+
+}
+
+nav a{
+    color: black;
+        text-decoration: none;
+}
+
+nav ul li{
+
+    display: inline;
+        padding-left: 30px;
+
+}
+
+.Logo{
+
+    width: 10%;
+        padding-left: 40px;
+            padding-right: 30px;
+                float: left;
+
+}
+
+#video {
+
+    padding-left: 115px;
+
+}
+
+#video_kueche {
+
+   padding-left: 115px;
+
+}
+
+a{
+
+    color: black;
+    text-decoration: none;
+
+}
+
+
+.ueberunsbild img{
+
+    padding-top: 30px;
+        width: 100%;
+
+}
+
+#ueberuns {
+
+    padding-left: 115px;
+    padding-right: 115px;
+
+}
+
+body{
+
+    font-family: Arial;
+
+}
+
+
+.karte{
+
+    padding-left: 115px;
+        padding-right: 115px;
+            padding-top: 1200px;
+
+}
+
+#telefon{
+
+    width: 20%;
+
+}
+
+#reservationtext{
+
+    display: block;
+        height: 220px;
+            padding-left: 115px;
+                padding-top: 30px;
+
+}
+
+#reservieren{
+    padding-left: 115px;
+        padding-top: 15px;
+             background-color: grey;
+                width: 100%;
+                    height: 800px;
+
+}
+
+footer {
+
+    background-color: rgba(210, 211, 217, 0.6);
+        height: 200px;
+            padding-top: 30px;
+                margin-top: 350px;
+                    padding-left: 115px;
+                        padding-right: 115px;
+}
+
+
+
+#links {
+    width: 40%;
+        text-align: left;
+            float: left;
+
+
+}
+
+
+#rechts {
+
+    width: 40%;
+        text-decoration: none;
+            text-align: left;
+                float: right;
+
+}
